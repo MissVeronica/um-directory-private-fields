@@ -9,7 +9,7 @@ Extension to Ultimate Member for User setting private fields in Members Director
 
 ## User settings -> Account Page
 1. Hide my profile’s “{Label}” field from directory - Here you can hide yourself from appearing in public directory with this profile field
-2. https://imgur.com/a/RVPr687
+2. Example https://imgur.com/a/RVPr687
 
 ## Translations
 1. Use the "Loco Translate" plugin.

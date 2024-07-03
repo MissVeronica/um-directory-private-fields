@@ -41,8 +41,8 @@
 
     $replaces = array(
         __( 'Here you can hide yourself from appearing in public directory with this profile field', 'directory_private_fields'),
-        __( 'Nej', 'directory_private_fields'),
-        __( 'Ja', 'directory_private_fields'),
+        __( 'No', 'directory_private_fields'),
+        __( 'Yes', 'directory_private_fields'),
     );
 
     $template = str_replace( $updates, $replaces, $template );

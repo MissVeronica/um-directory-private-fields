@@ -1,5 +1,5 @@
 # UM Directory Private Fields
-Extension to Ultimate Member for User setting private fields in Members Directory.
+Extension to Ultimate Member for User setting of private fields in Members Directory.
 
 ## UM Settings -> General -> Users
 1. Profile and Registration Form fields to make Private - Select single or multiple Form fields.

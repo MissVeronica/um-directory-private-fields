@@ -18,6 +18,7 @@ Extension to Ultimate Member for User setting private fields in Members Director
 ## Updates 
 None
 
-## Installation
-1. Install by downloading the plugin ZIP file and install as a new Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
-2. Activate the Plugin: Ultimate Member - Directory Private Fields
+## Installation & Updates
+1. Download the plugin ZIP file
+2. Install as a new WP Plugin upload in WordPress -> Plugins -> Add New -> Upload Plugin.
+3. Activate the Plugin: Ultimate Member - Directory Private Fields

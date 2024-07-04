@@ -2,7 +2,7 @@
 /**
  * Plugin Name:         Ultimate Member - Directory Private Fields
  * Description:         Extension to Ultimate Member for User setting private fields in Members Directory.
- * Version:             1.0.0
+ * Version:             1.1.0
  * Requires PHP:        7.4
  * Author:              Miss Veronica
  * License:             GPL v3 or later
@@ -81,6 +81,13 @@ class UM_Directory_Private_Fields {
                 if ( ! in_array( $directory_data['form_id'], $directory_private_forms )) {
                     return $data_array;
                 }
+            }
+        }
+
+        if ( current_user_can( 'administrator' )) {
+
+            if ( UM()->options()->get( 'um_directory_private_admin') != 1 ) {
+                return $data_array;
             }
         }
 
@@ -318,6 +325,13 @@ class UM_Directory_Private_Fields {
         );
 
         $section_fields[] = array(
+            'id'             => 'um_directory_private_admin',
+            'type'           => 'checkbox',
+            'label'          => $prefix . __( 'Include Administrators', 'directory_private_fields' ),
+            'checkbox_label' => __( 'Click to include Administrators among Members not seeing the Private fields.', 'directory_private_fields' ),
+        );
+
+        $section_fields[] = array(
             'id'             => 'um_directory_private_custom',
             'type'           => 'checkbox',
             'label'          => $prefix . __( 'Use custom template', 'directory_private_fields' ),
@@ -334,4 +348,5 @@ class UM_Directory_Private_Fields {
 }
 
 new UM_Directory_Private_Fields();
+
 

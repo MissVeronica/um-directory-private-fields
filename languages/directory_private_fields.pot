@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ultimate Member - Directory Private Fields\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-03 20:25+0000\n"
+"POT-Creation-Date: 2024-07-04 11:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -16,18 +16,23 @@ msgstr ""
 "X-Loco-Version: 2.6.10; wp-6.5.5\n"
 "X-Domain: directory_private_fields"
 
-#: um-directory-private-fields.php:279
+#: um-directory-private-fields.php:286
 #, php-format
 msgid "%s version %s - tested with UM 2.8.6"
 msgstr ""
 
-#: um-directory-private-fields.php:324
+#: um-directory-private-fields.php:331
+msgid ""
+"Click to include Administrators among Members not seeing the Private fields."
+msgstr ""
+
+#: um-directory-private-fields.php:338
 msgid ""
 "Click to load customized template from active theme's folder: .../ultimate-"
 "member/directory_private_fields_template.php"
 msgstr ""
 
-#: um-directory-private-fields.php:118 um-directory-private-fields.php:278
+#: um-directory-private-fields.php:125 um-directory-private-fields.php:285
 msgid "Directory Private Fields"
 msgstr ""
 
@@ -37,7 +42,7 @@ msgid ""
 "Directory."
 msgstr ""
 
-#: um-directory-private-fields.php:274
+#: um-directory-private-fields.php:281
 msgid "GitHub plugin documentation and download"
 msgstr ""
 
@@ -47,7 +52,7 @@ msgid ""
 "profile field"
 msgstr ""
 
-#: um-directory-private-fields.php:188
+#: um-directory-private-fields.php:195
 #, php-format
 msgid "Hide my profile's \"%s\" field from directory"
 msgstr ""
@@ -60,7 +65,11 @@ msgstr ""
 msgid "https://github.com/MissVeronica/um-directory-private-fields"
 msgstr ""
 
-#: um-directory-private-fields.php:306
+#: um-directory-private-fields.php:330
+msgid "Include Administrators"
+msgstr ""
+
+#: um-directory-private-fields.php:313
 msgid "Member Directories to allow Private fields"
 msgstr ""
 
@@ -72,29 +81,29 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-#: um-directory-private-fields.php:275
+#: um-directory-private-fields.php:282
 msgid "Plugin"
 msgstr ""
 
-#: um-directory-private-fields.php:296
+#: um-directory-private-fields.php:303
 msgid "Profile and Registration Form fields to make Private"
 msgstr ""
 
-#: um-directory-private-fields.php:119
+#: um-directory-private-fields.php:126
 msgid "Save my Directory Private settings"
 msgstr ""
 
-#: um-directory-private-fields.php:297
+#: um-directory-private-fields.php:304
 msgid "Select single or multiple Form fields."
 msgstr ""
 
-#: um-directory-private-fields.php:307
+#: um-directory-private-fields.php:314
 msgid ""
 "Select single or multiple Member Directories. None selected equals all "
 "selected."
 msgstr ""
 
-#: um-directory-private-fields.php:317
+#: um-directory-private-fields.php:324
 msgid ""
 "Select the User Role(s) to be included in Private Fields. None selected "
 "equals all selected."
@@ -104,11 +113,11 @@ msgstr ""
 msgid "Ultimate Member - Directory Private Fields"
 msgstr ""
 
-#: um-directory-private-fields.php:323
+#: um-directory-private-fields.php:337
 msgid "Use custom template"
 msgstr ""
 
-#: um-directory-private-fields.php:316
+#: um-directory-private-fields.php:323
 msgid "User Roles to allow setting Private Fields"
 msgstr ""
 

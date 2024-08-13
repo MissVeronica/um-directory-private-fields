@@ -25,7 +25,7 @@ From version 2.0.0 search via Directory filters included and option to make Prof
 
 ## Updates 
 1. Version 1.1.0 Additional option "Include Administrators"
-2. Version 2.0.0 Include Directory filter search and Profile page option
+2. Version 2.0.0 Include Directory filter search and Profile page option for private fields. Code improvements.
 
 ## Installation & Updates
 1. Download the plugin ZIP file

@@ -28,6 +28,6 @@ From version 2.0.0 search via Directory filters included and option to make Prof
 2. Version 2.0.0 Include Directory filter search and Profile page option for private fields. Code improvements.
 
 ## Installation & Updates
-1. Download the plugin ZIP file
+1. Download the plugin ZIP file at the green Code button
 2. Install as a new WP Plugin upload in WordPress -> Plugins -> Add New -> Upload Plugin.
 3. Activate the Plugin: Ultimate Member - Directory Private Fields

@@ -24,8 +24,8 @@ From version 2.0.0 search via Directory filters included and option to make Prof
 2. https://wordpress.org/plugins/loco-translate/
 
 ## Updates 
-Version 1.1.0 Additional option "Include Administrators" 
-Version 2.0.0 Include Directory filter search and Profile page option
+1. Version 1.1.0 Additional option "Include Administrators"
+2. Version 2.0.0 Include Directory filter search and Profile page option
 
 ## Installation & Updates
 1. Download the plugin ZIP file

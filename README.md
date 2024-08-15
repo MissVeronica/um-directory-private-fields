@@ -18,6 +18,7 @@ From version 2.0.0 search via Directory filters included and option to make Prof
 ## Members Directory Search
 1. Exclude your private Search fields by the UM Settings in Members Directory
 2. https://docs.ultimatemember.com/article/1513-member-directories-2-1-0#search
+3. Try to add your Private fields as Filters in the Members Directory which will exclude Users from listing with privacy set.
 
 ## Translations
 1. Use the "Loco Translate" plugin.
